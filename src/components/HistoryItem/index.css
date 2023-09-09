@@ -1,0 +1,21 @@
+.item-list {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+.logo-info {
+  display: flex;
+  align-items: center;
+  padding: 5px;
+  width: 700px;
+  padding: 2px;
+}
+
+.delete-info {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  align-items: center;
+}
